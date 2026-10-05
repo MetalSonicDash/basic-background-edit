@@ -58,7 +58,7 @@
 	--font:				"gg sans", "Noto Sans";		/* font used in most places														*/
 	--textshadow:			transparent;			/* default: transparent				(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)		*/
 	
-	--background:			url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f14fe284-cd1c-42a5-a353-14fb4717b9a4/dda552z-7bb4101d-9772-4b20-a828-b6b1891237b1.png/v1/fill/w_1024,h_713,q_80,strp/corrin_general_of_hel_by_delta_dragon7997_dda552z-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzEzIiwicGF0aCI6Ii9mL2YxNGZlMjg0LWNkMWMtNDJhNS1hMzUzLTE0ZmI0NzE3YjlhNC9kZGE1NTJ6LTdiYjQxMDFkLTk3NzItNGIyMC1hODI4LWI2YjE4OTEyMzdiMS5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.m3_khxnsIRWi5X5llAOoPoXbqwqskWDCIXmzj0XoI1w);	/* general background image					*/
+	--background:			url(https://file.garden/apttvwBDCj-M_9qa/download_waifu2x_noise1_scale2x.png);	/* general background image					*/
 	--backgroundposition:		center;				/* default: center				(position of background - values: [center/top/right/bottom/left])			*/
 	--backgroundsize:		cover;				/* default: cover				(sizefit of background - values: [cover/contain/auto])					*/
 	--backgroundblur:		0;				/* default: 0					(blur in px, only works when --background is set to an image)				*/
